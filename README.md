@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview
 In this project, I helped the organization Alphabet Soup to make predictions about where to invest their money. Using knowledge of deep learning and neural networks, I used features in a provided dataset to create a binary classifier that helped predict whether applicants would be successful if they were funded. 
